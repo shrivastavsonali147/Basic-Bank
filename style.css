@@ -1,0 +1,30 @@
+#loginModal{
+    color: white;
+    text-align: right;
+  }
+  .footer{
+    background-color: #B2BABB;
+    margin: 10px auto;
+    padding: 20px 0px 20px 0px;
+  }
+  .navbar-dark{
+    background-color: #7F8C8D;
+  }
+  .modal-header{
+    background-color: #7F8C8D;
+  }
+  
+  .modal-body{
+    background-color: white;
+  }
+  
+  .img-fluid{
+    width: 400px;
+    height: 300px;
+  }
+  #exampleModalLabel{
+    color: grey;
+  }
+  .jumbotron{
+    background-color: white;
+  }
